@@ -1,0 +1,81 @@
+p {
+  color:black ;
+  text-align: center;
+  
+}
+
+h1{
+  color: white;
+  	text-align: center;
+}
+
+h2{
+	color: black;
+	text-align: center;
+}
+
+h3{
+	color: black;
+	text-align: center;
+	}
+h4{
+	color: black;
+	text-align: center;
+	}
+
+
+
+
+.cabecera
+{
+
+	background-color : #529ABB	;
+	text-align: center;
+}
+
+.cabecera2
+{
+
+	background-color : white	;
+	text-align: center;
+}
+
+.fondoblanco
+{
+
+	background-color: white;
+}
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.boton_1{
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 25px;
+    font-style: italic;
+    color: #006505;
+    background-color: #82b085;
+    border-radius: 15px;
+    border: 3px double #006505;
+  }
